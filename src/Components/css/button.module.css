@@ -1,0 +1,15 @@
+.button {
+  font-family: "JetBrains Mono", monospace;
+  font-size: 1rem;
+  font-weight: 700;
+  padding: 1rem 2rem;
+  border: hidden;
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.button:hover {
+  background-color: rgb(2, 2, 191);
+}

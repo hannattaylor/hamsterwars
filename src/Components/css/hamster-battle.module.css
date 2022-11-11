@@ -1,0 +1,33 @@
+.article {
+  width: 20rem;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.img {
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  cursor: pointer;
+}
+
+.name_age_section {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.name {
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.span {
+  font-size: 2rem;
+}
+
+.p {
+  margin: 0;
+}

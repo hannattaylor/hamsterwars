@@ -1,0 +1,15 @@
+.img {
+  width: 20rem;
+  height: 20rem;
+  object-fit: cover;
+  margin: 1rem;
+}
+
+.section {
+  text-align: center;
+}
+
+.serverErrorSection {
+  text-align: center;
+  margin-block: 10rem;
+}

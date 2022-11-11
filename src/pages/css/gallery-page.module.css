@@ -1,0 +1,10 @@
+.big_wrap {
+  position: relative;
+}
+
+.add_remove_section {
+  display: flex;
+  justify-content: center;
+  gap: 3rem;
+  margin-block: 3rem;
+}

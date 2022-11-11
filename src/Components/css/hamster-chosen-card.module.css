@@ -1,0 +1,40 @@
+.article {
+  height: 25rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2rem;
+}
+
+.img {
+  height: 20rem;
+  width: 20rem;
+  object-fit: cover;
+  border-radius: 5px;
+}
+
+.info_section {
+  display: flex;
+  flex-direction: column;
+}
+
+.div {
+  display: flex;
+  gap: 2rem;
+  align-items: center;
+}
+
+.div > h2 {
+  font-size: 1.7rem;
+  font-weight: 800;
+}
+.div > h3 {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+.p {
+  margin: 5px;
+}
+.span {
+  font-size: 2rem;
+}
