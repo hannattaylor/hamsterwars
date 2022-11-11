@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf0ec997.css",
+    "main.js": "/static/js/main.41bf40e7.js",
+    "static/media/hamster-1.jpg": "/static/media/hamster-1.ce8bae6e6b773f737cd0.jpg",
+    "static/media/hamster-16.jpg": "/static/media/hamster-16.a1fbf90ee41301f44274.jpg",
+    "static/media/hamsterlogo1.svg": "/static/media/hamsterlogo1.2df7b9b76a18542876c898a764e881c2.svg",
+    "index.html": "/index.html",
+    "static/media/delete.svg": "/static/media/delete.00f203a3437e63826301.svg",
+    "main.cf0ec997.css.map": "/static/css/main.cf0ec997.css.map",
+    "main.41bf40e7.js.map": "/static/js/main.41bf40e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf0ec997.css",
+    "static/js/main.41bf40e7.js"
+  ]
+}
